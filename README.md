@@ -53,7 +53,7 @@ world feel alive. I’m most fluent in **Java**, and I’m currently exploring *
 
 <div align="left">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Xaxvs&show_icons=true&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&include_all_commits=true" alt="GitHub statistics for Xaxvs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Xaxvs&show_icons=true&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&show_private=true" alt="GitHub statistics for Xaxvs" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xaxvs&layout=compact&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&text_color=C0CAF5" alt="Most used languages on GitHub" />
 <img height="165" src="https://streak-stats.demolab.com?user=Xaxvs&hide_border=true&background=1A1B26&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7DCFFF&sideLabels=C0CAF5&currStreakNum=C0CAF5&sideNums=C0CAF5&dates=565F89" alt="GitHub contribution streak" />
 
