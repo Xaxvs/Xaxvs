@@ -4,7 +4,7 @@
 
 <p align="center" width="150px"> I have been coding for around 5 years, mainly self-taught, and have learned so many new things. I'm learning languages such as CPP, Rust, Python, C, and I am currently most fluent in Java. I am constantly looking to grow even more.</p>
 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Fotohh&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Xaxvs&theme=chartreuse-dark"></p>
 
 ### 🛠 &nbsp; Software Developer
 
