@@ -1,5 +1,3 @@
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-
 <h1 align="center">Hi, I am Singha De La Cruz</h1>
 
 <p align="center" width="150px"> I have been coding for around 5 years, mainly self-taught, and have learned so many new things. I'm learning languages such as CPP, Rust, Python, C, and I am currently most fluent in Java. I am constantly looking to grow even more.</p>
@@ -27,5 +25,3 @@
 <a href="https://spigotmc.org/members/fotoh.830220/"><img src="https://img.shields.io/badge/-Fotohh-D14836?style=for-the-badge&logo=minecraft&logoColor=white"/></a>
 </p>
 
----
-Credit: [KevinPatel04](https://github.com/KevinPatel04)
