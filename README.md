@@ -9,7 +9,7 @@
 I like understanding how things work — from backend systems and developer tooling to the little details that make a game
 world feel alive. I’m most fluent in **Java**, and I’m currently exploring **C++, Rust, Python, and C**.
 
-### [GitHub](https://github.com/Xaxvs) · [Email](mailto:creatorxaxis@gmail.com) · [SpigotMC](https://spigotmc.org/members/fotoh.830220/)
+### [Portfolio](https://xaxvs.github.io) · [Email](mailto:creatorxaxis@gmail.com) · [SpigotMC](https://spigotmc.org/members/fotoh.830220/)
 </div>
 
 <div align="center">
