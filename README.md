@@ -4,7 +4,7 @@
 
 # Xaxis
 
-*Self-taught developer · 6+ years of coding · always learning*
+*6+ years of coding · always learning*
 
 I like understanding how things work — from backend systems and developer tooling to the little details that make a game
 world feel alive. I’m most fluent in **Java**, and I’m currently exploring **C++ and Rust**.
